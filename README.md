@@ -1,5 +1,5 @@
 ## ABOUT ME
-I am young student with many technical skills. I am very motivated to become QA
+My name is Otto Bitka. I am master in architecture. I graduated from Cracow University of Technology in Poland. Recently I have started to interest in software testing. My goal is to develop testing knowlage and technical skills. On this site I would like to share my all gained experience from personal studies and researches. I am very motivated to become QA
 ## TOOLS
 * Jira
 * TestLink
@@ -8,10 +8,11 @@ I am young student with many technical skills. I am very motivated to become QA
 * Software testing
 * Creating test cases
 * Reporting bugs
-* SQL
+* SQL basics
 * SCRUM
+* HTML and CSS basics
 ## CERTIFICATES
-Szkolenie Indywidualne tester manualny 05.04.2022
+Szkolenie Indywidualne tester manualny 10.2022
 ## COURSES
 * Szkolenie indywidualne tester manualny - Waldemar Szafraniec
 ## RECOMENDED BLOGS
