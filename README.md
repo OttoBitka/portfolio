@@ -26,13 +26,11 @@ Szkolenie Indywidualne tester manualny 10.2022
 * Testowanie oprogramowania
 ## MY TEST CASE EXAMPLES
 ## MY TEST CASE EXAMPLES FOR 
-* [Test cases](tu link do google drive z plikiem z test case)
+* [Test cases for site TVP.VOD.Pl ](https://drive.google.com/drive/folders/1kfqskZJIZPXV-CIpTOydHcZL5qatBjxb)
 ## MY BUGS
 ## MY BUGS FOR 
-* [nazwa buga](link do buga z google drive)
-* [nazwa buga](link do buga z google drive)
+* [Bug for site TVP.VOD.PL](https://drive.google.com/drive/folders/11tvPHgOOXe0f9DT8XIfNNTuMNolHSSha)
 
 ## MY REPORT
 ## MY REPORT FOR 
-* [Report PDF](Link do raportu PDF)
-* [Report Excell](Link do raportu Excell)
+* [Report test for site TVP.VOD.PL](https://drive.google.com/drive/folders/1NbG_UkRJ8r_iYCO1X62zRd92hlk5y4G7
