@@ -30,6 +30,7 @@ Szkolenie Indywidualne tester manualny 10.2022
 ## MY BUGS
 ## MY BUGS FOR 
 * [Bug for site TVP.VOD.PL](https://drive.google.com/drive/folders/11tvPHgOOXe0f9DT8XIfNNTuMNolHSSha)
+* [Bug for brithis counsil english course](https://drive.google.com/drive/folders/1i1NGuVEiZiXxQcmTdjYZ9QNhRLp85gNh)
 
 ## MY REPORT
 ## MY REPORT FOR 
